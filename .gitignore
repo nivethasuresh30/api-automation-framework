@@ -1,0 +1,12 @@
+﻿.env
+venv/
+reports/
+pycache/
+*.pyc
+*.pyo
+.pytest_cache/
+logs/
+.idea/
+*.iml
+main.py
+*.log

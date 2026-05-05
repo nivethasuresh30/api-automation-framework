@@ -1,0 +1,15 @@
+{
+  "name": "Nivetha Updated",
+  "username": "nivetha_qa_updated",
+  "email": "nivetha_updated@test.com",
+  "address": {
+    "street": "T Nagar",
+    "city": "Chennai",
+    "zipcode": "600017"
+  },
+  "phone": "9344742916",
+  "website": "nivetha_updated.dev",
+  "company": {
+    "name": "New Company"
+  }
+}

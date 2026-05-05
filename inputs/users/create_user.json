@@ -1,0 +1,15 @@
+{
+  "name": "Nivetha S",
+  "username": "nivetha_qa",
+  "email": "nivetha@test.com",
+  "address": {
+    "street": "Anna Nagar",
+    "city": "Chennai",
+    "zipcode": "600040"
+  },
+  "phone": "123456789",
+  "website": "nivetha.dev",
+  "company": {
+    "name": "Mavens i Softech"
+  }
+}
