@@ -48,3 +48,4 @@ def test_create_user_response_has_correct_structure():
     assert "id" in json_body
     assert "name" in json_body
     assert "email" in json_body
+
